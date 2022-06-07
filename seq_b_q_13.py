@@ -1,0 +1,1 @@
+# 13. Write a python program to reverse the given number using while loop.

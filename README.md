@@ -1,2 +1,2 @@
 # Computer-Science-HW
- Summer Vacation Holiday Homework for CS (2022-2023)
+ Class 12th Summer Vacation Holiday Homework by Harsh Narayan Jha for Computer Science (session 2022-2023)
